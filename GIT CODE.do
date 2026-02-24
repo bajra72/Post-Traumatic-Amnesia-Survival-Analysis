@@ -1,4 +1,5 @@
-*** The included Stata code is shared to demonstrate methodological structure and analytic reasoning only. Reproduction or redistribution of the code without permission is not permitted.
+*** The included Stata code is shared to demonstrate methodological structure and analytic reasoning only.
+*** Reproduction or redistribution of the code without permission is not permitted.
 *** December 15, 2025
 *****************************************************
 clear all
@@ -167,6 +168,7 @@ estat phtest, detail
 
 *clear
 clear
+
 
 
 
